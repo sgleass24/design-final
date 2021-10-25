@@ -1,0 +1,13 @@
+*{
+    font-family: noto serif display;
+}
+
+h2{
+    color: white;
+    background-color: lightseagreen;
+}
+
+.col-md-6 {
+    border: solid 2px lightseagreen;
+    
+}
