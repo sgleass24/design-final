@@ -58,3 +58,11 @@ footer .nav:hover{
         background: rgb(231, 70, 137);
         color: white;
       }
+
+      .logo:hover {
+        display: inline-block;
+        margin: 0 0.5rem;
+      
+        animation: bounce; 
+        animation-duration: 2s; 
+      }

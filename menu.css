@@ -11,3 +11,75 @@ h2{
     border: solid 2px lightseagreen;
     
 }
+
+header .nav{
+    display: inline-block;
+    color: white;
+    float: left;
+    padding: 10px;
+}
+
+header{
+    background-color: lightseagreen;
+    color: white;
+}
+
+header .nav:hover{
+    color:grey;
+}
+
+footer .nav{
+    display: inline-block;
+    color: white;
+    float: left;
+    padding: 10px;
+}
+
+footer{
+    background-color: lightseagreen;
+    color: white;
+}
+
+footer .nav:hover{
+    color:grey;
+}
+
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+    float: right;
+  }
+
+  fa:hover{
+      opacity: 0.8;
+  }
+
+  .fa-facebook {
+    background: #3B5998;
+    color: white;
+  }
+
+ .fa-instagram {
+        background: rgb(231, 70, 137);
+        color: white;
+      }
+
+      .hh {
+          text-align: center;
+      }
+
+.nav #margslogo {
+        transition-property: all;
+			transition-duration: 2s;
+			transition-delay: 0s;
+			transition-timing-function: ease-out;
+}
+    }
+
+    .nav #margslogo:hover {
+    transform: scale(2)
+    }
