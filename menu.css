@@ -72,14 +72,18 @@ footer .nav:hover{
           text-align: center;
       }
 
-.nav img{
-        transition-property: all;
-			transition-duration: 2s;
-			transition-delay: 0s;
-			transition-timing-function: ease-out;
-}
-    }
 
-    .nav img:hover {
+
+			
+    
+
+    .margslogo:hover {
     transform: scale(2)
     }
+
+    .margslogo{
+        transition-property: all;
+        transition-duration: 2s;
+        transition-delay: 0s;
+    }
+
