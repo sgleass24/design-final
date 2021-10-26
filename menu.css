@@ -72,7 +72,7 @@ footer .nav:hover{
           text-align: center;
       }
 
-.nav #margslogo {
+.nav img{
         transition-property: all;
 			transition-duration: 2s;
 			transition-delay: 0s;
@@ -80,6 +80,6 @@ footer .nav:hover{
 }
     }
 
-    .nav #margslogo:hover {
+    .nav img:hover {
     transform: scale(2)
     }
